@@ -23,6 +23,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="contacto.php"><i class="fas fa-envelope me-1"></i>Contacto</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contacto.php"><i class="fas fa-user me-1"></i>Albertson</a>
+                    </li>
                 </ul>
             </div>
         </div>
