@@ -1,15 +1,11 @@
     <!-- Footer -->
     <footer class="footer">
         <div class="footer-container">
-
-            <!-- Columna 1 -->
             <div class="footer-col">
-                <h4><img src="assets/icons/book-glasses.webp" alt="Logo" class="brand-logo me-2">Librería Online</h4>
+                <h4><img src="assets/icons/librerio-logo.webp" alt="Logo" class="brand-logo me-2">Librería Online</h4>
                 <hr>
                 <p>Tu espacio para descubrir historias, conocimiento y nuevas ideas.</p>
             </div>
-
-            <!-- Columna 2 -->
             <div class="footer-col">
                 <h4>Ver Proyecto en</h4>
                 <hr>
@@ -18,8 +14,6 @@
                     <li><a href="https://github.com/Alb3rtsonTL/PW-ProyectoFinal-Librerio">GitHub</a></li>
                 </ul>
             </div>
-
-            <!-- Columna 4 -->
             <div class="footer-col herramientas">
                 <h4>Herramientas usadas</h4>
                 <hr>
@@ -33,7 +27,6 @@
                 </div>
             </div>
         </div>
-
         <div class="footer-bottom">
             <p>
                 © 2025 <strong>Librerio</strong>.
@@ -42,7 +35,6 @@
             </p>
         </div>
     </footer>
-
 
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
