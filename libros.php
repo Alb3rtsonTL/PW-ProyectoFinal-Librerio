@@ -40,7 +40,7 @@ $stmt->execute();
 
 <body>
     <?php include_once 'layouts/navbar.php'; ?>
-    
+
     <div class="container my-5">
         <div class="row mb-4">
             <div class="col-12">
@@ -66,12 +66,15 @@ $stmt->execute();
                 <div class="col-md-6 col-lg-4 libro-card">
                     <div class="card h-100 shadow-sm border-0 hover-card">
                         <div class="card-header bg-primary text-white">
-                            <h5 class="mb-0 text-truncate"><?php echo htmlspecialchars($row['titulo']); ?></h5>
+                            <h5 class="mb-0 text-truncate">
+                                <?php echo htmlspecialchars($row['tipo']); ?>
+                                <i class="fas fa-tag me-2 text-primary"></i>
+                            </h5>
                         </div>
                         <div class="card-body">
                             <p class="card-text">
-                                <strong><i class="fas fa-tag me-2 text-primary"></i>Tipo:</strong>
-                                <span class="badge bg-secondary"><?php echo htmlspecialchars($row['tipo']); ?></span>
+                                <strong><i class="fas fa-book me-2 text-primary"></i>Título:</strong>
+                                <?php echo htmlspecialchars($row['titulo']); ?>
                             </p>
                             <p class="card-text">
                                 <strong><i class="fas fa-building me-2 text-success"></i>Editorial:</strong>
