@@ -11,7 +11,7 @@
                 <hr>
                 <ul>
                     <li><a href="#">CodeSandbox</a></li>
-                    <li><a href="https://github.com/Alb3rtsonTL/PW-ProyectoFinal-librerío">GitHub</a></li>
+                    <li><a href="https://github.com/Alb3rtsonTL/PW-ProyectoFinal-librerio">GitHub</a></li>
                 </ul>
             </div>
             <div class="footer-col herramientas">
