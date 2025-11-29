@@ -10,7 +10,7 @@
 
     <title><?php echo isset($page_title) ? $page_title : 'Librería Online'; ?></title>
 
-    <!-- Metadatos opcionales -->
+    <!-- Metadatos -->
     <meta name="author" content="Alb3rtsonTL - Albertson Terrero">
     <meta name="robots" content="index, follow">
     <meta name="og:title" content="<?php echo isset($page_title) ? $page_title : 'Librería Online'; ?>">
