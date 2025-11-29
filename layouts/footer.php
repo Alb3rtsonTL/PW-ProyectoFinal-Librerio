@@ -11,7 +11,7 @@
                 <hr>
                 <ul>
                     <li><a href="#">CodeSandbox</a></li>
-                    <li><a href="https://github.com/Alb3rtsonTL/PW-ProyectoFinal-Librerio">GitHub</a></li>
+                    <li><a href="https://github.com/Alb3rtsonTL/PW-ProyectoFinal-librerío">GitHub</a></li>
                 </ul>
             </div>
             <div class="footer-col herramientas">
@@ -29,7 +29,7 @@
         </div>
         <div class="footer-bottom">
             <p>
-                © 2025 <strong>Librerio</strong>.
+                Copyright &copy; <?php echo date('Y'); ?>  <strong>librerío</strong>.
                 Desarrollado por <strong><a href="https://github.com/Alb3rtsonTL" target="_blank">Alb3rtsonTL</a></strong>
                 Todos los derechos y licencias reservados.
             </p>
@@ -37,7 +37,8 @@
     </footer>
 
     <!-- Bootstrap JS -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    
     <!-- Custom JS -->
     <script src="assets/js/mian.js"></script>
     </body>

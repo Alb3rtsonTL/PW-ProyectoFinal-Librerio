@@ -55,7 +55,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Apartado de contacto">
-    <meta name="keywords" content="Autores, Escritores, Biografías, Literatura, Libros, Obras, Autores destacados, Escritores famosos, Catálogo de autores, Librerio">
+    <meta name="keywords" content="Autores, Escritores, Biografías, Literatura, Libros, Obras, Autores destacados, Escritores famosos, Catálogo de autores, librerío">
 
     <title><?php echo isset($page_title) ? $page_title : 'Librería Online'; ?></title>
 
@@ -159,7 +159,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                         <div class="text-center p-4 bg-light rounded">
                             <i class="fas fa-envelope fa-2x text-info mb-3"></i>
                             <h5 class="fw-bold">Email</h5>
-                            <p class="text-muted mb-0">info@librerio.###<br>soporte@librerio.###</p>
+                            <p class="text-muted mb-0">info@librerío.###<br>soporte@librerío.###</p>
                         </div>
                     </div>
                 </div>

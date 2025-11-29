@@ -5,8 +5,8 @@
     <!-- Meta-etiquetas -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Tu biblioteca digital para explorar libros, autores y géneros. Descubre, busca y organiza tu lectura con la plataforma moderna de Librerio.">
-    <meta name="keywords" content="Autores, Escritores, Biografías, Literatura, Libros, Obras, Autores destacados, Escritores famosos, Catálogo de autores, Librerio">
+    <meta name="description" content="Tu biblioteca digital para explorar libros, autores y géneros. Descubre, busca y organiza tu lectura con la plataforma moderna de librerío.">
+    <meta name="keywords" content="Autores, Escritores, Biografías, Literatura, Libros, Obras, Autores destacados, Escritores famosos, Catálogo de autores, librerío">
 
     <title><?php echo isset($page_title) ? $page_title : 'Librería Online'; ?></title>
 
@@ -14,7 +14,7 @@
     <meta name="author" content="Alb3rtsonTL - Albertson Terrero">
     <meta name="robots" content="index, follow">
     <meta name="og:title" content="<?php echo isset($page_title) ? $page_title : 'Librería Online'; ?>">
-    <meta name="og:description" content="Librerio es una plataforma digital diseñada para descubrir libros, explorar autores, gestionar colecciones y acceder a contenido literario de forma ágil y moderna.">
+    <meta name="og:description" content="librerío es una plataforma digital diseñada para descubrir libros, explorar autores, gestionar colecciones y acceder a contenido literario de forma ágil y moderna.">
     <?php
     $page_title = "Inicio - Librería Online";
     include_once 'layouts/header.php';
