@@ -69,29 +69,28 @@ Meta-tags, sanitización con `htmlspecialchars()`, código organizado.
 ```plaintext
 │── /assets
 │ ├── css/
-│ ├── js/
+│ ├── icons/
 │ ├── images/
-│
-│── /layouts
-│ ├── header.php
-│ ├── navbar.php
-│ ├── footer.php
-│
-│── /pages
-│ ├── index.php
-│ ├── libro.php
-│ ├── autores.php
-│ ├── categoria.php
-│
-│── /admin
-│ ├── crud_libros.php
-│ ├── crud_autores.php
+│ ├── js/
 │
 │── /config
-│ ├── db.php
+│ ├── database.php
 │
-│── README.md
-│── .htaccess
+│── /layouts
+│ ├── footer.php
+│ ├── header.php
+│ ├── navbar.php
+│
+│── /sql
+│ ├── Base Datos Libreria.sql
+│ ├── nueva_tabla_contacto.sql
+│
+│── Albertson.php
+├── autores.php
+├── contacto.php
+├── index.php
+├── libro.php
+│── ReadMe.md
 ```
 
 ## 👨‍💼 Créditos
